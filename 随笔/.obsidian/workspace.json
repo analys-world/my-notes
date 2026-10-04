@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026.9.md",
+                "file": "2026.10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.9"
+              "title": "2026.10"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "cff1af28fff95149",
   "lastOpenFiles": [
-    "2026.9.md"
+    "2026.9.md",
+    "2026.10.md"
   ]
 }
