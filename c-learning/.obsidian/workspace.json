@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +187,13 @@
   },
   "active": "8ca1fcfcbce55938",
   "lastOpenFiles": [
+    "c-code/1.exe",
+    "c-code/1",
+    "c-code/1.o",
+    "c-code/1.s",
+    "c-code/1.i",
+    "c-code/1.c",
+    "c-code",
     "欢迎.md",
     "01-day01.md",
     "未命名"
