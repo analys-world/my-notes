@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.94921875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "377c2d738bb53b19",
+  "active": "c3e8aa1a7d48d35a",
   "lastOpenFiles": [
     "file:/home/analys/my_projects/Edgecsi-project/双链路采集与可视化工具链.md",
     "2026.10.md",
