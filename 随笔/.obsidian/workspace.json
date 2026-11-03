@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "580ca046e1176ac2",
+        "id": "97d34de4ef63e4fb",
         "type": "tabs",
         "children": [
           {
-            "id": "377c2d738bb53b19",
+            "id": "0916ef42486d93b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/home/analys/my_projects/Edgecsi-project/docs/ESP32-CSI链路技术文档.md",
+                "file": "file:/run/media/analys/新加卷/csi数据/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESP32-CSI链路技术文档"
+              "title": "README"
             }
           }
         ]
@@ -199,11 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "377c2d738bb53b19",
+  "active": "0916ef42486d93b4",
   "lastOpenFiles": [
+    "file:/home/analys/my_projects/Edgecsi-project/docs/项目调整说明-2026-10.md",
+    "file:/home/analys/my_projects/Edgecsi-project/双链路采集与可视化工具链.md",
+    "file:/home/analys/my_projects/Edgecsi-project/papers/pdf/2507.12132.pdf",
+    "file:/home/analys/my_projects/Edgecsi-project/papers/README.md",
     "file:/home/analys/my_projects/Edgecsi-project/docs/agent-config.md",
     "2026.10.md",
-    "file:/home/analys/my_projects/Edgecsi-project/双链路采集与可视化工具链.md",
     "2026.9.md"
   ]
 }
